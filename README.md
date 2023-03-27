@@ -1,15 +1,15 @@
 # Raid log analysis
 
-Similar to my analysis on mage movement data for naxx25, I won't be super detailed in here because it is a project that I have on stand-by.
+Similar to [my analysis on mage movement data for naxx25](https://github.com/ForgeGit/naxx_mage_movement), I won't be super detailed in here because it is a project that I have on stand-by.
 
 In the meantime, check the performance of my 2 raids as I break ethics codes by posting about my raid members without consent. 
 
 
 # Table of Contents
-1. [Definition of movement](#movement) <br>
-2. [Avg. Movement per boss](#average-movement-per-boss) <br>
-3. [Movement on top 100 parses](#movement-top-100-parses)<br>
-4. [Practical use](#ok-and)<br>
+1. [Graphic v1](#deaths-by-boss-per-person) <br>
+2. [Graphic v1.5?](#deaths-by-person-per-boss) <br>
+3. [Graphic v.1.a](#interrupts-per-person)<br>
+4. [Anonymized Raid Deaths Report](#deaths-per-boss)<br>
 
 
 ## Deaths by boss per person
