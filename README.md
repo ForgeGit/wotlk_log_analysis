@@ -2,7 +2,7 @@
 
 Similar to [my analysis on mage movement data for naxx25](https://github.com/ForgeGit/naxx_mage_movement), I won't be super detailed in here because it is a project that I have on stand-by.
 
-In the meantime, check the performance of my 2 raids as I break ethics codes by posting about my raid members without consent. 
+In the meantime, check the performance of my two raids as I break ethics codes by posting about my raid members without consent. 
 
 
 # Table of Contents
